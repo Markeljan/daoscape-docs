@@ -5,7 +5,7 @@ coverY: 2.4161073825503356
 
 # ⚔ DAOScape
 
-DAOScape is a community driven P2E / Play to BUILD web3 game coming to the Harmony blockchain Q3 2022.
+DAOScape is a community driven P2E / Play to BUILD web3 game.
 
 DAO members have authority over the direction of gameplay through high frequency updates based on feature polls. DAOScape mutates rapidly, taking shape more and more each week into the dream game desired by its community.
 
